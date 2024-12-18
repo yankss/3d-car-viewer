@@ -9,7 +9,7 @@
 
 ## 在线预览
 
-访问 [GitHub Pages 链接] 即可在线预览项目。
+访问 [在线预览](https://yankss.github.io/3d-car-viewer/) 即可查看演示。
 
 ## 本地运行
 
